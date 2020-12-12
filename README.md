@@ -14,13 +14,7 @@
 - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
 , and on a daily hunt to learn new things, new skills and aspire to keep doing so!
 - 📫 How to reach me:  
-<a href="https://www.linkedin.com/in/esin-adsoy/">
-  <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/linkedin.png" width="30px">
-</a>
-<a href="esin.adsoy@gmail.com">
-  <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/gmail.png" width="30px">
-</a>  
-------------------------------------------------------------
+
 <a href="https://github.com/eadsoy/github-readme-stats">
   <img align="center" height= %80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true&card_width= 250"/>
 </a>
