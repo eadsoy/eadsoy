@@ -7,6 +7,7 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
   &nbsp;&nbsp;&nbsp;&nbsp; :closed_book: Architecture  at Istanbul Technical University,\
   very recently\
   &nbsp;&nbsp;&nbsp;&nbsp; :bus: graduated a bootcamp called Le Wagon \
+  and enrolled in the\
   &nbsp;&nbsp;&nbsp;&nbsp; :open_book: Mathematics Engineering/ Applied Maths program at Yildiz Technical University for a second bachelors.
   
 - 🔭 I’m currently:
