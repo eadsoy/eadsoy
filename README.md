@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 I'm Esin, a fullstack developer, born in Germany, spent half my life there, the other half in Turkey. 
@@ -6,7 +6,8 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 - :woman_student: I studied\
   &nbsp;&nbsp;&nbsp;&nbsp; :closed_book: Architecture  at Istanbul Technical University,\
   very recently\
-  &nbsp;&nbsp;&nbsp;&nbsp; :bus: graduated a bootcamp called Le Wagon \
+  &nbsp;&nbsp;&nbsp;&nbsp; :bus: graduated a coding bootcamp called Le Wagon \
+  and enrolled in the\
   &nbsp;&nbsp;&nbsp;&nbsp; :open_book: Mathematics Engineering/ Applied Maths program at Yildiz Technical University for a second bachelors.
   
 - 🔭 I’m currently:
@@ -24,5 +25,7 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 <!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eadsoy.visitor-badge) -->
 
 [![Esin's github stats](https://github-readme-stats.vercel.app/api?username=eadsoy&hide=stars,prs,issues,contribs)](https://github.com/eadsoy/github-readme-stats)
+
+
 
 
