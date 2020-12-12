@@ -1,7 +1,4 @@
 # Hi there<img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/hi.gif" width="30px">
-
-
-
 I'm Esin, a fullstack developer, born in Germany, spent half my life there, the other half in Turkey. 
 - :world_map: I'm currently based in Istanbul, Turkey. 
 - :woman_student: I studied\
@@ -10,7 +7,6 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
   &nbsp;&nbsp;&nbsp;&nbsp; :bus: graduated a coding bootcamp called Le Wagon \
   and enrolled in the\
   &nbsp;&nbsp;&nbsp;&nbsp; :open_book: Mathematics Engineering/ Applied Maths program at Yildiz Technical University for a second bachelors.
-  
 - 🔭 I’m currently:
     - part of a volunteer dev team of three, creating a platform for students enrolled in different European universities.
     - working on our first freelance project with two fellow Le Wagon alumni,
