@@ -20,13 +20,4 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 - 📫 How to reach me:\
   https://www.linkedin.com/in/esin-adsoy/ \
   esin.adsoy@gmail.com
-
-
-
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy)
-
-
-
-
-
