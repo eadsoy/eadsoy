@@ -20,7 +20,7 @@
 </a>
 <a href="esin.adsoy@gmail.com">
   <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/gmail.png" width="30px">
-</a>&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/eadsoy/github-readme-stats">
   <img align="center" height= %80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true&card_width= 250"/>
