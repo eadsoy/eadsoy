@@ -16,7 +16,11 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 - 📫 How to reach me:\
   https://www.linkedin.com/in/esin-adsoy/ \
   esin.adsoy@gmail.com\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true)](https://github.com/eadsoy/github-readme-stats)\
+<a href="https://github.com/eadsoy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eadsoy&show_icons=true&theme=react&count_private=true&hide=stars,issues,contribs" />
+</a>
+
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-
-
