@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 I'm Esin, a fullstack developer, born in Germany, spent half my life there, the other half in Turkey. 
@@ -25,5 +25,7 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 <!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eadsoy.visitor-badge) -->
 
 [![Esin's github stats](https://github-readme-stats.vercel.app/api?username=eadsoy&hide=stars,prs,issues,contribs)](https://github.com/eadsoy/github-readme-stats)
+
+
 
 
