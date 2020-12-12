@@ -1,6 +1,6 @@
 # Hi there<img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/hi.gif" width="30px">
-I'm Esin, a fullstack developer, born in Germany, spent half my life there, the other half in Turkey. 
-- :world_map: I'm currently based in Istanbul, Turkey. 
+I'm Esin, a fullstack developer, born in Germany, spent half my life there, the other half in Turkey.
+- :world_map: I'm currently based in Istanbul, Turkey.
 - :woman_student: I studied\
   &nbsp;&nbsp;&nbsp;&nbsp; :closed_book: Architecture  at Istanbul Technical University,\
   very recently\
@@ -17,3 +17,4 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
   https://www.linkedin.com/in/esin-adsoy/ \
   esin.adsoy@gmail.com\
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
+<img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
