@@ -24,13 +24,8 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-<!--- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=eadsoy.visitor-badge) -->
-
 [![Esin's github stats](https://github-readme-stats.vercel.app/api?username=eadsoy&hide=stars,prs,issues,contribs)](https://github.com/eadsoy/github-readme-stats)
-
-
-<!---![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy)
 
 
 
