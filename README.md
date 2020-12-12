@@ -20,7 +20,7 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true&card_width= 250"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width= 52% src="https://github-readme-stats.vercel.app/api?username=eadsoy&show_icons=true&theme=react&count_private=true&hide=stars,issues,contribs" />
+  <img align="center" width= 55% src="https://github-readme-stats.vercel.app/api?username=eadsoy&show_icons=true&theme=react&count_private=true&hide=stars,issues,contribs" />
 </a>
 
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
