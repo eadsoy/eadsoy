@@ -15,7 +15,7 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
 , and on a daily hunt to learn new things, new skills and aspire to keep doing so!
 - 📫 How to reach me:\
   https://www.linkedin.com/in/esin-adsoy/ \
-  esin.adsoy@gmail.com\
+  esin.adsoy@gmail.com
 <a href="https://github.com/eadsoy/github-readme-stats">
   <img align="center" height= %80 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eadsoy&layout=compact&show_icons=true&theme=react&count_private=true&card_width= 250"/>
 </a>
