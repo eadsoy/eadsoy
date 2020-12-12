@@ -11,10 +11,9 @@ I'm Esin, a fullstack developer, born in Germany, spent half my life there, the 
     - part of a volunteer dev team of three, creating a platform for students enrolled in different European universities.
     - working on our first freelance project with two fellow Le Wagon alumni,
     - working on a side project, whose link will appear right here very soon I hope.
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
 , and on a daily hunt to learn new things, new skills and aspire to keep doing so!
 - 📫 How to reach me:\
   https://www.linkedin.com/in/esin-adsoy/ \
   esin.adsoy@gmail.com\
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-<img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
