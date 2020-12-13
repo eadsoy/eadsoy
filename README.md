@@ -16,10 +16,10 @@
 - 📫 How to reach me:  
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/esin-adsoy/">
-              <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/linkedin.png" width="30px">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
             </a>
 <a href="mailto:esin.adsoy@gmail.com">
-  <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/gmail.png" width="30px">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 \
 <a href="https://github.com/eadsoy/github-readme-stats">
@@ -30,5 +30,5 @@
 </a>
 
 ![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-<!-- **[linkedin](https://www.linkedin.com/in/esin-adsoy/)** -->  
-<!-- **[mail](esin.adsoy@gmail.com)** -->
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
