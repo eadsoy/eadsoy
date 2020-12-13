@@ -18,7 +18,7 @@
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/esin-adsoy/">
               <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/linkedin.png" width="30px">
             </a>
-<a href="esin.adsoy@gmail.com">
+<a href="mailto:esin.adsoy@gmail.com">
   <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/gmail.png" width="30px">
 </a>
 \
