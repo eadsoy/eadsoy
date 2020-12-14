@@ -29,5 +29,3 @@
   <img align="center" width= 55% height= 200px src="https://github-readme-stats.vercel.app/api?username=eadsoy&show_icons=true&theme=react&count_private=true&hide=stars,issues,contribs" />
 </a>
 
-![Visitor Count](https://profile-counter.glitch.me/eadsoy/count.svg)
-
