@@ -10,7 +10,7 @@
 - 🔭 I’m currently:
     - part of a volunteer dev team of three, creating a platform for students enrolled in different European universities.
     - working on our first freelance project with two fellow Le Wagon alumni,
-    - working on a side project, whose link will appear right here very soon I hope.
+    - working on a side project.
 - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
 , and on a daily hunt to learn new things, new skills and aspire to keep doing so!
 - 📫 How to reach me:  
