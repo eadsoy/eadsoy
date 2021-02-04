@@ -8,10 +8,10 @@
   and enrolled in the  
   &nbsp;&nbsp;&nbsp;&nbsp; :open_book: Mathematics Engineering/ Applied Maths program at Yildiz Technical University for a second bachelors.
 - 🔭 I’m currently:
+    - working full-time as a Junior Full-Stack Developer at Aksion Tech.
     - part of a volunteer dev team of three, creating a platform for students enrolled in different European universities.
-    - working on our first freelance project with two fellow Le Wagon alumni,
-    - working on a side project.
-- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/eadsoy/eadsoy/main/gifs/react.png" width="30px">
+
+- 🌱 I’m currently learning node.js
 , and on a daily hunt to learn new things, new skills and aspire to keep doing so!
 - 📫 How to reach me:  
 
