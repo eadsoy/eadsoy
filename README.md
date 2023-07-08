@@ -5,8 +5,3 @@
 <a href="mailto:esin.adsoy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-\
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width= 55% height= 200px src="https://github-readme-stats.vercel.app/api?username=eadsoy&show_icons=true&theme=react&count_private=true&hide=stars,issues,contribs" />
-</a>
-
